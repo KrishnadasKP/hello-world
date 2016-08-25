@@ -1,2 +1,2 @@
 # hello-world
-Hello Github !
+Lets Code for the humanity !
